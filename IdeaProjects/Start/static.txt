@@ -1,0 +1,23 @@
+Adding a line from s1
+Adding a line from s2
+Adding a line from s1
+Adding a line from s2
+From static method call
+Adding a line from s1
+Adding a line from s2
+From static method call
+Adding a line from s1
+Adding a line from s2
+From static method call
+Adding a line from s1
+Adding a line from s2
+From static method call
+Adding a line from s1
+Adding a line from s2
+From static method call
+Adding a line from s1
+Adding a line from s2
+From static method call
+Adding a line from s1
+Adding a line from s2
+From static method call
